@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_pagination_next_pages",
+  "info": {
+    "displayName": "Next page",
+    "icon": "angle-double-right"
+  },
+  "options": {},
+  "attributes": {
+    "pageNumber": {
+      "type": "integer"
+    }
+  }
+}

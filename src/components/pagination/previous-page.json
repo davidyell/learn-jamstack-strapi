@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_pagination_previous_pages",
+  "info": {
+    "displayName": "Previous page",
+    "icon": "angle-double-left"
+  },
+  "options": {},
+  "attributes": {
+    "pageNumber": {
+      "type": "integer"
+    }
+  }
+}
